@@ -1,0 +1,32 @@
+html{
+    font-size:62.5%;
+}
+
+body{
+    background-color:black;
+    width:100vw;
+    font-family: "Hiragino Kaku Gothic", "Meiryo",  sans-serif;
+    color:white;
+    text-align: center;
+}
+h1{
+    font-size:36px;
+    line-height:1px;
+}
+h4{
+    font-size:18px;
+}
+.title{
+    font-size:28px;
+    
+}
+.text{
+    font-size:18px;
+}
+
+p{
+    width:70vw;
+    
+    transform:translateY(30px);
+}
+
